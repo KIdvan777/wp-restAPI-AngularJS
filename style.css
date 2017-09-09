@@ -1,0 +1,19 @@
+/*
+Theme Name:
+Theme URI: http:
+Tags:
+Author URI:
+License:
+License URI:
+*/
+
+/* HTML 5*/
+header, article, footer, section, nav{
+	display:block;	
+}
+.clear{
+	clear:both;	
+}
+
+
+/******** ALL FURTHER STYLING SHOULD BE DONE IN THE more-style.less/css FILES *******/
