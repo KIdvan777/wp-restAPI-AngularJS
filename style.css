@@ -1,10 +1,6 @@
 /*
-Theme Name:
-Theme URI: http:
-Tags:
-Author URI:
-License:
-License URI:
+Theme Name: style
+
 */
 
 /* HTML 5*/
@@ -14,6 +10,8 @@ header, article, footer, section, nav{
 .clear{
 	clear:both;	
 }
-
+img{
+	display: inline-block;
+}
 
 /******** ALL FURTHER STYLING SHOULD BE DONE IN THE more-style.less/css FILES *******/

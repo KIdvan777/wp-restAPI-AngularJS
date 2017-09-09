@@ -19,13 +19,13 @@
 		<div class="row">
 			<div class="col-sm-7">
 				<h1>
-					<a href="<?php bloginfo('wpurl'); ?>">
+					<a ui-sref="list">
 						<?php echo bloginfo('name'); ?>
 					</a>
 				</h1>
 			</div>
 			<div class="col-sm-4 col-sm-offset-1">
-				<span>by: <a href="http://www.roysivan.com">kid777</a></span>
+				<span>by: <a href="http://www.roysivan.com">Roy Sivan</a></span>
 			</div>
 		</div>
 </header>
